@@ -2,6 +2,8 @@ RENCANA KEDEPANNYA
 - Bekerja sesuai 
 - Nyaman bekerja
 - Gaji yang cocok
+- Phyton
+- PHP
 - Javascript
 *Vue
 - Laravel
