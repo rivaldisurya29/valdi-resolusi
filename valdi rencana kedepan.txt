@@ -2,4 +2,5 @@ RENCANA KEDEPANNYA
 - Bekerja sesuai 
 - Nyaman bekerja
 - Gaji yang cocok
-- Javascript
+- Phyton
+- PHP
