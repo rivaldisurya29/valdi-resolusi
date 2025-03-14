@@ -3,3 +3,5 @@ RENCANA KEDEPANNYA
 - Nyaman bekerja
 - Gaji yang cocok
 - Javascript
+*Vue
+- Laravel
